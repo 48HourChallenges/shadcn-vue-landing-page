@@ -29,7 +29,7 @@ import { ArrowRight } from "lucide-vue-next";
           <h1>
             Experience the
             <span
-              class="text-transparent bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text"
+              class="text-transparent bg-gradient-to-r from-[#00a210] to-[#006400] bg-clip-text"
               >Shadcn/Vue
             </span>
             landing page
