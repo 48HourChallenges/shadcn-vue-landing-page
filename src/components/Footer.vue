@@ -131,15 +131,6 @@ import Separator from "./ui/separator/Separator.vue";
               href="#"
               class="opacity-60 hover:opacity-100"
             >
-              Discord
-            </a>
-          </div>
-
-          <div>
-            <a
-              href="#"
-              class="opacity-60 hover:opacity-100"
-            >
               Dribbble
             </a>
           </div>
