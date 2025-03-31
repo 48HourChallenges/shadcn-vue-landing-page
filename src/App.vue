@@ -22,7 +22,7 @@ import Footer from "./components/Footer.vue";
   <!-- <Features /> -->
   <!-- <Services /> -->
   <HowItWorks />
-  <Testimonials />
+  <!-- <Testimonials /> -->
   <!-- <Team /> -->
   <Pricing />
   <!--<Contact />-->

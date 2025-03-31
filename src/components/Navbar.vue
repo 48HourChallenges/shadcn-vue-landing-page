@@ -78,11 +78,8 @@ const featureList: FeatureProps[] = [
 const isOpen = ref<boolean>(false);
 
 const navItems = [
-  { label: "Fulfillment", href: "#fulfillment" },
-  { label: "Benefits", href: "#benefits" },
-  { label: "Blog", href: "#blog" },
-  { label: "Partners", href: "#partners" },
-  { label: "FAQs", href: "#faqs" },
+  // { label: "Benefits", href: "#benefits" },
+  // { label: "Partners", href: "#partners" },
 ];
 </script>
 
@@ -92,7 +89,7 @@ const navItems = [
       <div class="flex items-center space-x-12">
         <!-- Logo -->
         <a href="/" class="flex items-center">
-          <img src="/logo.svg" alt="Logo" class="h-8" />
+          <span class="text-[#4ADE80] text-2xl font-bold">AvSync</span>
         </a>
 
         <!-- Desktop Navigation -->
